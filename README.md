@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **- **Advanced .NET Development** - Best practices in **Software Architecture****
 
-- 👯 I’m looking to collaborate on **- Innovative **.NET web applications** - **Open-source projects** related to **E-commerce & EdTech****
+- 👯 I’m looking to collaborate on **- Innovative **.NET web applications**
 
 - 🤝 I’m looking for help with **Advanced **Cloud Deployment** & **Microservices Architecture****
 
